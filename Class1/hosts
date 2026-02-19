@@ -1,0 +1,4 @@
+[dev]
+web1 ansible_host=54.158.44.149
+[qa]
+web2 ansible_host=54.234.219.228
